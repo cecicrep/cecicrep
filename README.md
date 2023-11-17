@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">🌟 Project Title 🌟</h1>
+<h1 align="center">🌟 Hello! I'm Cecilia 🌟</h1>
 
 ---
 
@@ -49,36 +49,8 @@ Here are some ideas to get you started:
 
 <h2 align="center">🎓 Education</h2>
 
-- **Business Analytics and Big Data**
-  - University Name, Graduation Year
-  - Relevant coursework: Data Mining, Business Intelligence, Environmental Analytics
-
-- **Additional Education, if any**
-  - University Name, Graduation Year
-  - Relevant coursework: [Course Title 1], [Course Title 2]
-
----
-
-<h2 align="center">🛠️ Getting Started</h2>
-
-<p align="center">To get started with the project, follow these steps:</p>
-
-1. Clone the repository: `git clone https://github.com/your-username/your-repository.git`
-2. Navigate to the project directory: `cd your-repository`
-3. [Additional setup instructions, if any]
-
----
-
-<h2 align="center">🤝 How to Contribute</h2>
-
-<p align="center">If you're passionate about business analytics, technology, and making a difference, consider contributing to the project. Here's how you can get involved:</p>
-
-1. Fork the repository
-2. Create a new branch: `git checkout -b feature-branch`
-3. Make your contributions
-4. Commit your changes: `git commit -m 'Add your message here'`
-5. Push to the branch: `git push origin feature-branch`
-6. Open a pull request
+- **Master's in Business Analytics and Big Data**
+  - IE University, 2024
 
 ---
 
